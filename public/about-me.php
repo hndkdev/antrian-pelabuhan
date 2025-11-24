@@ -66,9 +66,9 @@ session_start();
         <li><b>Hosting:</b> InfinityFree (Free Web Hosting)</li>
       </ul>
 
-      <h3 class="mt-4 text-primary">👨‍💻 Tentang Pengembang</h3>
+      <h3 class="mt-4 text-primary">ℹ️Tentang Pengembang</h3>
       <p>
-        Aplikasi ini dikembangkan oleh Kelompok 9 bagian dari tugas
+        Aplikasi ini dikembangkan oleh Kelompok 12 bagian
         <br> Proyek ini menjadi bentuk penerapan konsep simulasi antrian dalam dunia nyata
         menggunakan pendekatan sistem informasi digital.</br>
       </p>
