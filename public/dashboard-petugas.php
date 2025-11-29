@@ -91,7 +91,7 @@ try {
       <a class="navbar-brand fw-bold" href="#">🚢 Dashboard Petugas</a>
       <div class="d-flex align-items-center">
         <span class="text-light me-3">Halo, <?= htmlspecialchars($_SESSION['petugas_nama'] ?? 'Petugas', ENT_QUOTES) ?> 👋</span>
-        <a href="logout.php" class="btn btn-danger btn-sm fw-semibold">Logout</a>
+        <a href="logout-petugas.php" class="btn btn-danger btn-sm fw-semibold">Logout</a>
       </div>
     </div>
   </nav>
