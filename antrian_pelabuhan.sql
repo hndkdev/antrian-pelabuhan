@@ -30,7 +30,7 @@ SET time_zone = "+00:00";
 CREATE TABLE `antrian` (
   `id_antrian` int(11) NOT NULL,
   `id_pengguna` int(11) NOT NULL,
-  `kode_antrian` varchar(10) DEFAULT NULL,
+  `kode_antrian` varchar(11) DEFAULT NULL,
   `nama_pengemudi` varchar(100) DEFAULT NULL,
   `no_kendaraan` varchar(50) DEFAULT NULL,
   `telepon` varchar(20) DEFAULT NULL,
